@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    background-color: yellow;
+}
+
+.para {
+    background-color:#7064D4
+}
+
+.panelClass{    
+    text-align: center;
+    background-color: orange;
+    width: 50%;
+    height: 250px;
+}
+
+#panel1{
+    background-color: palevioletred;
+}
+#panel2{
+    background-color:grey;
+}
+#panel3{
+    background-color:purple;
+}
+#panel4{
+    background-color: black;
+    color:white;
+}
